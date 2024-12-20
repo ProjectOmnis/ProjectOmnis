@@ -3,7 +3,7 @@
 ProjectOmnis.org multi-feature AI dataset source code repository 
 
 <div align="center">
-    <img src="" alt="ProjectOmnis">
+    <img src="https://github.com/user-attachments/assets/3941c903-f2fd-433a-97c0-b769e6e470a8" alt="ProjectOmnis">
     <br>
     <a href="https://ProjectOmnis.org/"><b>🌐 Web</b></a> | 
     <a href="https://x.com/ProjectOmnisAI"><b>🐦 Twitter</b></a>
