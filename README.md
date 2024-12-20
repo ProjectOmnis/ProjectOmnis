@@ -44,8 +44,7 @@ Project Omnis AI is still in its early stages, but it is structured to be easily
 
 ## Features
 
-<details>
-<summary><b>Key Features</b></summary>
+<b>Key Features</b>
 
 - **Neural Network Training:** Implements a basic neural network that can learn through backpropagation using techniques like Adam optimization.
 - **Reinforcement Learning:** Implements a learning loop where Project Omnis makes decisions based on its environment and adapts to improve its behavior over time.
@@ -54,10 +53,9 @@ Project Omnis AI is still in its early stages, but it is structured to be easily
 - **Backpropagation & Gradients:** Minimizes loss by updating layer weights using computed gradients.
 - **Scalability:** Built with scalability in mind, allowing easy integration of additional layers, algorithms, and techniques.
 
-</details>
+<br>
 
-<details>
-<summary><b>Key Components</b></summary>
+<b>Key Components</b>
 
 - **Neural Network:** Manages the network architecture, including layers, activations, and optimization.
 - **Dense Layer:** Implements a fully connected layer for the neural network, applying weights and biases.
@@ -66,7 +64,6 @@ Project Omnis AI is still in its early stages, but it is structured to be easily
 - **Training Loop:** Trains the neural network on tasks like the XOR problem with loss evaluation and backpropagation.
 - **Reinforcement Learning:** Adapts Project Omnis' behavior based on interactions with its environment.
 
-</details>
 
 ---
 
