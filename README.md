@@ -19,7 +19,8 @@ Through this project, you will explore key concepts like neural networks, deep l
 
 Project Omnis AI is still in its early stages, but it is structured to be easily extendable and scalable for future improvements. The current implementation demonstrates basic machine learning models and training loops, focusing on potential applications such as robotics, self-learning systems, real-time feedback processing and more.<br>
 
-<img src="" alt="ProjectOmnis">
+<img src="https://github.com/user-attachments/assets/a1ec238d-6025-43cc-8939-be171e58634e" alt="ProjectOmnis">
+
 
 ---
 
@@ -37,7 +38,7 @@ Project Omnis AI is still in its early stages, but it is structured to be easily
 <b>Phase 4: Advanced Integrations:</b><br>
 • Release Project Omnis Token Staking to expand Project Omnis’ supporters functionality and reach.<br>
 
-<img src="" alt="stakingProjectOmnis">
+<img src="https://github.com/user-attachments/assets/c6a07bdc-8371-4f85-9c74-bc8fd43e1d49" alt="stakingProjectOmnis">
 
 ---
 
